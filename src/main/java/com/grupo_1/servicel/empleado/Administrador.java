@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package empleado.com.grupo_1.servicel;
+package com.grupo_1.servicel.empleado;
 
 /**
  *
