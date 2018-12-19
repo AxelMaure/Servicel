@@ -3,12 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package empleado.com.grupo_1.servicel;
+package com.servicel.entidades.empleado;
+
+import com.servicel.entidades.Empleado;
 
 /**
  *
  * @author Axel
  */
-public class Administrador{
+public class Tecnico extends Empleado{
     
 }

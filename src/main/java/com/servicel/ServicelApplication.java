@@ -1,4 +1,4 @@
-package com.grupo_1.servicel;
+package com.servicel;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

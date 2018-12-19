@@ -1,6 +1,6 @@
 spring:
   datasource: 
-    url: jdbc:mysql://localhost:3306/reservas?useSSL=false&useTimezone=true&serverTimezone=GMT
+    url: jdbc:mysql://localhost:3306/servicel?useSSL=false&useTimezone=true&serverTimezone=GMT
     username: root
     password: root
     driver-class-name: com.mysql.jdbc.Driver

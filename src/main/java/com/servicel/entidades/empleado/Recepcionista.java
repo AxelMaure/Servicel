@@ -3,17 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dispositivos.com.grupo_1.servicel;
+package com.servicel.entidades.empleado;
 
-import com.grupo_1.servicel.Dispositivo;
+import com.servicel.entidades.Empleado;
 
 /**
  *
  * @author Axel
  */
-public class Tablet extends Dispositivo {
-    
-        
-        
+public class Recepcionista extends Empleado{
     
 }

@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package dispositivos.com.grupo_1.servicel;
+package com.servicel.entidades.dispositivos;
 
-import com.grupo_1.servicel.Dispositivo;
+import com.servicel.entidades.Dispositivo;
 
 /**
  *
